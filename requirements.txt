@@ -1,0 +1,7 @@
+discord
+async-timeout==3.0.1
+git+https://github.com/Rapptz/discord.py
+youtube-dl>=2018.1.14
+toml>=0.9.4
+PyNaCl
+wolframalpha
