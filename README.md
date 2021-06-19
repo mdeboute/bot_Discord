@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/mdeboute/bot_Discord/blob/main/assets/larbin.jpg)
 
-A bot written with Discord.py wich can stream music, do a search on WolframAlpha, generate memes, and do lots of other cool things ! Use the `!help` command to get a list of commands !
+A bot written with Discord.py wich can stream music, do a search on WolframAlpha, generate memes, and do lots of other cool things! Use the `!help` command to get a list of commands!
 
 ## Additional Dependencies ⚠️
 
