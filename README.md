@@ -4,6 +4,8 @@
 
 A bot written with Discord.py wich can stream music, do a search on WolframAlpha, generate memes, and do lots of other cool things! Use the `!help` command to get a list of commands!
 
+Feel free to contribute if you want!
+
 ## Additional Dependencies ⚠️
 
 Python dependencies are denoted in `requirements.txt` (to allow for streaming of media, make sure `opus` and `ffmpeg` are installed)
